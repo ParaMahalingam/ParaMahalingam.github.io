@@ -3,12 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "id": "sn252ts8433.1",
+      "properties": {},
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "LineString",
         "coordinates": [
-          [
-            [
           [
             12.45466724038124,
             41.90723597655214
@@ -249,102 +247,8 @@
             12.454666569828987,
             41.907237224160184
           ]
-            ]
-          ]
         ]
-      },
-      "geometry_name": "geom",
-      "properties": {
-        "id_0": 248,
-        "iso": "VAT",
-        "name_engli": "Vatican City",
-        "name_iso": "HOLY SEE (VATICAN CITY STATE)",
-        "name_fao": null,
-        "name_local": "Status Civitatis Vaticanæ",
-        "name_obsol": null,
-        "name_varia": "Vatican|State of the Vatican City|Holy See",
-        "name_nonla": null,
-        "name_frenc": "Saint-Siège (État de la Cité du Vatican)",
-        "name_spani": "Ciudad del Vaticano",
-        "name_russi": "Ватикан",
-        "name_arabi": "الفاتيكان",
-        "name_chine": "梵帝冈",
-        "waspartof": null,
-        "contains": null,
-        "sovereign": "Vatican",
-        "iso2": "VA",
-        "www": null,
-        "fips": "VT",
-        "ison": 336,
-        "validfr": "Unknown",
-        "validto": "Present",
-        "pop2000": 921,
-        "sqkm": 0.44,
-        "popsqkm": 2093.18181818,
-        "unregion1": "Southern Europe",
-        "unregion2": "Europe",
-        "developing": 2,
-        "cis": 0,
-        "transition": 0,
-        "oecd": 0,
-        "wbregion": null,
-        "wbincome": null,
-        "wbdebt": null,
-        "wbother": null,
-        "ceeac": 0,
-        "cemac": 0,
-        "ceplg": 0,
-        "comesa": 0,
-        "eac": 0,
-        "ecowas": 0,
-        "igad": 0,
-        "ioc": 0,
-        "mru": 0,
-        "sacu": 0,
-        "uemoa": 0,
-        "uma": 0,
-        "palop": 0,
-        "parta": 0,
-        "cacm": 0,
-        "eurasec": 0,
-        "agadir": 0,
-        "saarc": 0,
-        "asean": 0,
-        "nafta": 0,
-        "gcc": 0,
-        "csn": 0,
-        "caricom": 0,
-        "eu": 0,
-        "can": 0,
-        "acp": 0,
-        "landlocked": 1,
-        "aosis": 0,
-        "sids": 0,
-        "islands": 0,
-        "ldc": 0
-      },
-      "bbox": [
-        12.44560814,
-        41.90011215,
-        12.45845127,
-        41.90755081
-      ]
+      }
     }
-  ],
-  "totalFeatures": 1,
-  "numberMatched": 1,
-  "numberReturned": 1,
-  "timeStamp": "2020-12-27T20:33:55.087Z",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:EPSG::4326"
-    }
-  },
-  "bbox": [
-    12.44560814,
-    41.90011215,
-    12.45845222,
-    41.90755463
   ]
 }
